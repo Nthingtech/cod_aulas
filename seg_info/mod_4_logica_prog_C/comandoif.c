@@ -10,6 +10,8 @@ int main()
 	if (a<b){
 	
 		printf("a é menor que b \n");
+		printf("-------------------\n");
+		
 	}
 
 
