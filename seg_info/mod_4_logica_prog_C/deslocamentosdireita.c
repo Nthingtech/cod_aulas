@@ -46,6 +46,7 @@ int main(void) {
     printf("Deslocamento á direita x7>>7= %d\n", x7 >> 7);
     printf("x7/2 = %d\n", x7 / 128 );
     printf(" \n");
+    printf("-----------\n");
         
 
     return 0;
