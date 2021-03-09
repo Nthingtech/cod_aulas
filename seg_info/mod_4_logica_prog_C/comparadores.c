@@ -19,6 +19,7 @@ int main()
 	printf("Retorna verdadeiro(1) %d\n", d>=b); //retorna 1 (verdadeiro)
 	printf("Retorna falso(0) %d\n", b>=d); //retorna 0 (falso)
 	printf("Retorna verdadeiro(0) %d\n", b<=b); //retorna 1 (verdadeiro)
+	printf("------------------------------------------------\n");
 	
 	
 	
