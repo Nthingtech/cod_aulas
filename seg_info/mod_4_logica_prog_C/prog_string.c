@@ -8,6 +8,7 @@ int main (void) {
     scanf("%14s", &nome);
 
     printf("O nome digitado foi: %s\n", nome);
+    printf("----------------------------\n");
 
     return 0;
 }
